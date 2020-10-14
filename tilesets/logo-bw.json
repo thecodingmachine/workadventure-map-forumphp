@@ -1,0 +1,14 @@
+{ "columns":40,
+ "image":"..\/..\/tilesets\/logo-bw.png",
+ "imageheight":510,
+ "imagewidth":1287,
+ "margin":0,
+ "name":"logo-bw",
+ "spacing":0,
+ "tilecount":600,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
