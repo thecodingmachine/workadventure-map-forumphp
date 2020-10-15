@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg76"
+   x="0px"
+   y="0px"
+   viewBox="0 0 290.6 260.6"
+   xml:space="preserve"
+   sodipodi:docname="afup-special-icon-20.svg"
+   width="290.60001"
+   height="260.60001"
+   inkscape:export-filename="/home/dave/projects/WA/wa-map/tilesets/afup-special-icon-20.png"
+   inkscape:export-xdpi="90.120003"
+   inkscape:export-ydpi="90.120003"
+   inkscape:version="1.0.1 (1.0.1+r73)"><metadata
+   id="metadata145"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>afup-20-2</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs143" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   id="namedview141"
+   showgrid="false"
+   inkscape:zoom="2.9210963"
+   inkscape:cx="122.98198"
+   inkscape:cy="122.54614"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg76" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#32549D;}
+	.st1{fill:#498CD2;}
+	.st2{fill:#487DC8;}
+	.st3{opacity:0.2;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{clip-path:url(#SVGID_4_);}
+	.st6{fill:#4C9EDC;}
+	.st7{fill:#5295D6;}
+	.st8{fill:#476BBC;}
+	.st9{fill:#7F9AD6;}
+	.st10{fill:#727EBD;}
+	.st11{fill:#8F9FD8;}
+	.st12{fill:#425DA2;}
+	.st13{fill:#6495D5;}
+	.st14{fill:#3A64AD;}
+	.st15{fill:#3F73BD;}
+	.st16{fill:#3A61A3;}
+	.st17{fill:#2F5296;}
+	.st18{fill:#325295;}
+	.st19{fill:#4379C6;}
+	.st20{fill:#50A0DD;}
+	.st21{fill:#FFFFFF;}
+	.st22{fill-opacity:0.2;}
+	.st23{clip-path:url(#SVGID_6_);}
+	.st24{clip-path:url(#SVGID_8_);}
+</style>
+<title
+   id="title4">afup-20-2</title>
+<g
+   id="g138"
+   transform="translate(21.692926,20.981883)">
+	<path
+   class="st0"
+   d="M 75.3,38.4 H 59.2 c -1.2,0 -2.2,1 -2.2,2.3 0,0 0,0.1 0,0.1 l 0.4,4.7 c 0.1,1.2 1.1,2.1 2.2,2.1 h 0.1 c 5.2,0 9.4,4.2 9.4,9.4 0,2.5 -1,4.8 -2.7,6.6 l -6.2,6.2 c -0.5,0.5 -0.8,1.2 -0.7,1.8 v 0 c 0.1,1.2 1.2,2.2 2.4,2.1 0.5,0 1,-0.3 1.4,-0.7 L 81.9,54.4 c 3.7,-3.7 3.7,-9.6 0,-13.3 -1.8,-1.7 -4.1,-2.7 -6.6,-2.7 z"
+   id="path6" />
+	<polygon
+   class="st1"
+   points="82.4,129.9 123.6,171.1 82.4,171.1 "
+   id="polygon8" />
+	<path
+   class="st2"
+   d="M 82.4,129.9 H 114 c 5.3,0 9.6,4.3 9.6,9.6 v 31.6 z"
+   id="path10" />
+	<g
+   class="st3"
+   id="g24">
+		<g
+   id="g22">
+			<defs
+   id="defs13">
+				<path
+   id="SVGID_1_"
+   d="M 114,129.9 H 82.4 v 41.2 h 41.2 v -31.6 c 0,-5.3 -4.3,-9.6 -9.6,-9.6 z" />
+			</defs>
+			<clipPath
+   id="SVGID_2_">
+				<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   id="use15"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+			</clipPath>
+			<g
+   class="st4"
+   clip-path="url(#SVGID_2_)"
+   id="g20">
+				<circle
+   cx="158.5"
+   cy="104.2"
+   r="78.699997"
+   id="circle18" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="g5616">
+		<g
+   id="g58">
+			<defs
+   id="defs27">
+				<circle
+   id="SVGID_3_"
+   cx="167.8"
+   cy="97.599998"
+   r="80.099998" />
+			</defs>
+			<clipPath
+   id="SVGID_4_">
+				<use
+   xlink:href="#SVGID_3_"
+   style="overflow:visible"
+   id="use29"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+			</clipPath>
+			<g
+   class="st5"
+   clip-path="url(#SVGID_4_)"
+   id="g56">
+				<path
+   id="path5668"
+   class="st6"
+   d="m 124.8,122.5 v 0 L 84.1,146 c 1.9,3.3 4.7,6.1 8,8 l 32.7,18.9 z" />
+				<path
+   id="path5672"
+   class="st1"
+   d="m 81.2,97.3 v 37.8 c 0,3.8 1,7.6 2.9,10.9 l 40.7,-23.5 z" />
+				<path
+   id="path5676"
+   class="st2"
+   d="M 124.8,122.5 V 72.2 L 81.2,97.3 v 0 z" />
+				<path
+   id="path5680"
+   class="st7"
+   d="m 124.8,172.9 v 0 l 32.7,18.9 c 3.3,1.9 7.1,2.9 10.9,2.9 v -47 z" />
+				<path
+   id="path5684"
+   class="st8"
+   d="M 84.1,48.7 C 82.2,52 81.2,55.8 81.2,59.6 V 97.4 L 124.8,72.2 Z" />
+				<path
+   id="path5688"
+   class="st9"
+   d="m 212,172.9 v -50.4 l -43.6,25.2 z" />
+				<path
+   id="path5692"
+   class="st10"
+   d="m 252.7,146 c 1.9,-3.3 2.9,-7.1 2.9,-10.9 V 97.3 L 212,122.5 Z" />
+				<path
+   id="path5696"
+   class="st11"
+   d="m 212,122.5 v 50.4 L 244.7,154 c 3.3,-1.9 6.1,-4.7 8,-8 z" />
+				<path
+   id="path5700"
+   class="st12"
+   d="m 212,72.2 v 0 50.4 l 43.6,-25.2 v 0 z" />
+				<path
+   id="path5704"
+   class="st13"
+   d="m 168.4,147.7 v 47 c 3.8,0 7.6,-1 10.9,-2.9 L 212,172.9 Z" />
+				<path
+   id="path5708"
+   class="st14"
+   d="M 168.4,47 124.8,21.8 v 50.4 z" />
+				<path
+   id="path5708-2"
+   class="st15"
+   d="M 212,122.5 168.4,97.3 v 50.4 z" />
+				<path
+   id="path5708-3"
+   class="st15"
+   d="M 212,72.2 168.4,47 v 50.4 z" />
+				<path
+   id="path5708-4"
+   class="st15"
+   d="M 168.4,97.3 124.8,72.1 v 50.4 z" />
+				<path
+   id="path5708-5"
+   class="st15"
+   d="m 124.8,72.2 43.6,25.2 V 47 Z" />
+				<path
+   id="path5708-6"
+   class="st15"
+   d="m 124.8,122.5 43.6,25.2 V 97.3 Z" />
+				<path
+   id="path5708-7"
+   class="st15"
+   d="M 168.4,97.3 212,122.5 V 72.2 Z" />
+				<path
+   id="path5712"
+   class="st16"
+   d="M 168.4,47 212,72.2 V 21.8 Z" />
+				<path
+   id="path5716"
+   class="st0"
+   d="m 84.1,48.7 40.7,23.5 V 21.8 L 92.1,40.7 c -3.3,1.9 -6.1,4.7 -8,8" />
+				<path
+   id="path5720"
+   class="st17"
+   d="m 212,72.2 43.6,25.2 V 59.6 c 0,-3.8 -1,-7.6 -2.9,-10.9 z" />
+				<path
+   id="path5724"
+   class="st18"
+   d="m 212,72.2 40.7,-23.5 c -1.9,-3.3 -4.7,-6.1 -8,-8 L 212,21.8 Z" />
+				<path
+   id="path5736"
+   class="st19"
+   d="M 212,21.8 179.3,2.9 C 176,1 172.3,0 168.4,0 v 47 z" />
+				<path
+   id="path5740"
+   class="st15"
+   d="M 168.4,47 V 0 c -3.8,0 -7.6,1 -10.9,2.9 l -32.7,18.9 z" />
+				<path
+   id="path5744"
+   class="st20"
+   d="m 124.8,172.9 43.6,-25.2 -43.6,-25.2 z" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="g5616-2">
+		<path
+   id="path5764"
+   class="st21"
+   d="m 130,126 16,9.2 V 111 l -19.7,11.4 c 0.9,1.5 2.2,2.7 3.7,3.6" />
+		<path
+   id="path5768"
+   class="st21"
+   d="m 145.7,110.4 -21,-12.1 v 18.5 c 0,1.7 0.4,3.5 1.3,5 z" />
+		<path
+   id="path5772"
+   class="st21"
+   d="M 146,109.8 V 85.6 l -19.4,11.2 -1.6,0.9 z" />
+		<path
+   id="path5776"
+   class="st21"
+   d="m 168,123.7 -21,12.1 16,9.2 c 1.5,0.9 3.2,1.4 5,1.4 z" />
+		<path
+   id="path5780"
+   class="st21"
+   d="m 125.9,73.6 c -0.8,1.5 -1.3,3.3 -1.3,5 v 18.5 l 21,-12.1 z" />
+		<path
+   id="path5784"
+   class="st21"
+   d="m 169,123.1 15.3,8.8 5.7,3.3 V 111 Z" />
+		<path
+   id="path5788"
+   class="st21"
+   d="m 210.8,121.8 c 0.8,-1.5 1.3,-3.3 1.3,-5 V 98.3 l -21,12.1 z" />
+		<path
+   id="path5792"
+   class="st21"
+   d="M 210.4,122.4 190.7,111 v 24.3 l 16,-9.2 c 1.5,-1 2.8,-2.2 3.7,-3.7" />
+		<path
+   id="path5796"
+   class="st21"
+   d="m 190.7,109.8 21,-12.1 -1.6,-0.9 -19.4,-11.2 z" />
+		<path
+   id="path5800"
+   class="st21"
+   d="m 168.7,123.7 v 22.8 c 1.8,-0.1 3.5,-0.6 5,-1.4 l 16,-9.2 z" />
+		<path
+   id="path5804"
+   class="st21"
+   d="m 167.7,72.3 -15.3,-8.8 -5.7,-3.3 v 24.3 z" />
+		<path
+   id="path5808"
+   class="st21"
+   d="M 173.9,145.4" />
+		<path
+   id="path5812"
+   class="st21"
+   d="M 190.4,135.8" />
+		<path
+   id="path5816"
+   class="st21"
+   d="m 169,72.3 21,12.1 V 60.2 l -5.7,3.3 z" />
+		<path
+   id="path5820"
+   class="st21"
+   d="M 126.3,73 146,84.4 V 60.2 l -16,9.2 c -1.5,0.9 -2.8,2.1 -3.7,3.6" />
+		<path
+   id="path5824"
+   class="st21"
+   d="m 191,85 21,12.1 V 78.7 c 0,-1.7 -0.4,-3.5 -1.3,-5 z" />
+		<path
+   id="path5828"
+   class="st21"
+   d="m 206.7,69.4 -16,-9.3 V 84.4 L 210.5,73 c -1,-1.5 -2.3,-2.7 -3.8,-3.6" />
+		<path
+   id="path5832"
+   class="st21"
+   d="m 168,104.1 c 0,-1.7 -0.4,-3.5 -1.3,-5 l -19.7,11.3 21,12.2 z" />
+		<path
+   id="path5836"
+   class="st21"
+   d="m 166.4,98.4 c -0.9,-1.5 -2.2,-2.7 -3.7,-3.6 l -16,-9.2 v 24.3 z" />
+		<path
+   id="path5840"
+   class="st21"
+   d="m 168.7,71.7 21,-12.1 -16,-9.2 c -1.5,-0.9 -3.2,-1.4 -5,-1.4 z" />
+		<path
+   id="path5844"
+   class="st21"
+   d="m 147,59.6 21,12.1 V 48.9 c -1.8,0.1 -3.5,0.5 -5,1.4 z" />
+		<path
+   id="path5848"
+   class="st21"
+   d="m 167.7,123.1 -21,-12.1 v 24.3 z" />
+	</g>
+	<path
+   class="st22"
+   d="m 124.1,62.1 c 3.7,-3.8 3.7,-9.8 0,-13.6 v 0 L 114,38.4 C 97.6,53.3 88.1,74.4 87.8,96.5 v 0 z"
+   id="path84" />
+	<path
+   class="st0"
+   d="M 0,47.5 V 15.9 C 0,10.6 4.3,6.3 9.6,6.3 h 31.6 z"
+   id="path86" />
+	<polyline
+   class="st14"
+   points="41.2,47.5 0,47.5 41.2,6.3  "
+   id="polyline88" />
+	<polygon
+   class="st15"
+   points="41.2,6.3 82.4,47.5 41.2,47.5 "
+   id="polygon90" />
+	<polyline
+   class="st19"
+   points="82.4,6.3 82.4,47.5 41.2,6.3  "
+   id="polyline92" />
+	<polygon
+   class="st10"
+   points="82.4,88.7 41.2,129.9 41.2,88.7 "
+   id="polygon94" />
+	<polyline
+   class="st12"
+   points="82.4,88.7 41.2,88.7 82.4,47.5  "
+   id="polyline96" />
+	<g
+   id="g110">
+		<defs
+   id="defs99">
+			<path
+   id="SVGID_5_"
+   d="M 2.8,127.1 41.2,88.7 v 41.2 L 0,171.1 v -37.2 c 0,-2.6 1,-5 2.8,-6.8 z" />
+		</defs>
+		<clipPath
+   id="SVGID_6_">
+			<use
+   xlink:href="#SVGID_5_"
+   style="overflow:visible"
+   id="use101"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</clipPath>
+		<g
+   class="st23"
+   clip-path="url(#SVGID_6_)"
+   id="g108">
+			<polyline
+   class="st11"
+   points="41.2,88.7 0,129.9 41.2,129.9    "
+   id="polyline104" />
+			<polygon
+   class="st9"
+   points="41.2,129.9 0,171.1 0,129.9 "
+   id="polygon106" />
+		</g>
+	</g>
+	<polyline
+   class="st13"
+   points="41.2,171.1 0,171.1 41.2,129.9  "
+   id="polyline112" />
+	<polygon
+   class="st7"
+   points="41.2,129.9 82.4,171.1 41.2,171.1 "
+   id="polygon114" />
+	<polyline
+   class="st20"
+   points="82.4,129.9 82.4,171.1 41.2,129.9  "
+   id="polyline116" />
+	<g
+   id="g130">
+		<defs
+   id="defs119">
+			<path
+   id="SVGID_7_"
+   d="m 82.4,6.3 v 82.4 l 34.4,-34.4 c 3.8,-3.8 3.8,-9.8 0,-13.6 0,0 0,0 0,0 z" />
+		</defs>
+		<clipPath
+   id="SVGID_8_">
+			<use
+   xlink:href="#SVGID_7_"
+   style="overflow:visible"
+   id="use121"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</clipPath>
+		<g
+   class="st24"
+   clip-path="url(#SVGID_8_)"
+   id="g128">
+			<polygon
+   class="st16"
+   points="123.6,47.5 82.4,6.3 82.4,47.5 "
+   id="polygon124" />
+			<polyline
+   class="st17"
+   points="82.4,47.5 82.4,88.7 123.6,47.5    "
+   id="polyline126" />
+		</g>
+	</g>
+	<path
+   class="st17"
+   d="m 157.3,206.5 v 3.1 c -1.4,0.7 -2.9,1 -4.5,1 -1.2,0.1 -2.5,-0.2 -3.5,-0.9 -0.8,-0.7 -1.2,-1.7 -1.2,-2.7 -1.8,2.4 -4.6,3.7 -7.5,3.6 -3.1,0 -5.4,-0.6 -7,-1.9 -1.6,-1.3 -2.5,-3.2 -2.4,-5.2 0,-4.3 3,-6.8 9,-7.5 l 7.8,-0.8 v -1.5 c 0.1,-1.6 -0.3,-3.2 -1.2,-4.6 -1,-1.1 -2.4,-1.7 -3.9,-1.6 -2.7,-0.1 -5.5,0.3 -8.1,1.1 l -1,0.4 -0.9,-3.3 c 1.4,-0.7 2.9,-1.2 4.4,-1.5 1.8,-0.4 3.6,-0.7 5.5,-0.7 3.7,0 6.3,0.7 7.9,2.2 1.6,1.6 2.5,3.9 2.3,6.2 v 14.6 z m -19.9,-5.9 c -0.8,0.6 -1.2,1.5 -1.2,2.5 0,1 0.4,1.9 1.3,2.5 1.1,0.7 2.3,1 3.6,0.9 2.6,0.1 5.1,-0.7 7.1,-2.3 v -5.6 l -7.6,0.8 c -1.3,0.1 -2.3,0.5 -3.2,1.2 z"
+   id="path132" />
+	<path
+   class="st17"
+   d="m 191.4,210 h -13.6 v -2.2 l 4.1,-1.7 v -12.4 c 0.1,-1.6 -0.2,-3.2 -1,-4.6 -0.7,-1 -1.9,-1.5 -3.6,-1.5 -2.9,0 -5.7,1.2 -7.6,3.4 v 15.1 l 4.4,1.7 v 2.2 h -13.6 v -2.2 l 4.4,-1.7 v -18.5 h -4.4 v -3.1 c 1.4,-0.7 3,-1 4.6,-1 1.7,0 2.9,0.4 3.6,1.1 0.7,1 1.1,2.2 1.1,3.4 0.6,-0.8 1.4,-1.5 2.2,-2.1 2,-1.6 4.5,-2.5 7,-2.4 2.2,-0.2 4.4,0.7 6,2.2 1.4,1.7 2.1,3.9 2,6.1 V 206 l 4.6,1.7 z"
+   id="path134" />
+	<path
+   class="st17"
+   d="m 213.7,191.5 h -3.3 l -0.7,-2.6 c -1.2,-1 -2.7,-1.4 -4.1,-1.3 -1.5,-0.1 -2.9,0.2 -4.3,0.7 -1,0.5 -1.5,1.1 -1.5,1.9 0,0.9 0.5,1.7 1.1,2.3 0.7,0.7 1.5,1.2 2.3,1.6 0.8,0.3 2.2,0.9 4.2,1.6 1.8,0.6 3.5,1.5 5,2.8 1.3,1.1 2,2.8 1.9,4.5 0.1,2.2 -0.9,4.4 -2.7,5.7 -1.8,1.3 -4,2 -6.2,1.9 -2,0 -4.1,-0.3 -6,-0.9 -1.3,-0.4 -2.5,-1 -3.6,-1.8 l -1,-0.9 v -5.6 h 3.1 l 1.1,3.2 c 0,0.1 0.3,0.3 0.8,0.5 1.5,0.8 3.2,1.2 4.9,1.2 1.3,0.1 2.6,-0.2 3.7,-0.8 0.8,-0.4 1.3,-1.2 1.3,-2.1 -0.1,-1 -0.6,-2 -1.4,-2.6 -1.5,-1.1 -3.1,-1.8 -4.9,-2.3 -2.1,-0.6 -4,-1.6 -5.7,-2.9 -1.4,-1.1 -2.3,-2.7 -2.3,-4.5 -0.1,-2.3 0.9,-4.5 2.7,-5.8 2.1,-1.4 4.5,-2 7,-1.9 1.4,0 2.9,0.2 4.2,0.5 1.1,0.2 2.2,0.6 3.2,1 l 1.1,0.5 z"
+   id="path136" />
+</g>
+</svg>

@@ -1,0 +1,14 @@
+{ "columns":20,
+ "image":"..\/..\/..\/Downloads\/stuff\/output-onlinepngtools (1).png",
+ "imageheight":315,
+ "imagewidth":643,
+ "margin":0,
+ "name":"output-onlinepngtools (1)",
+ "spacing":0,
+ "tilecount":180,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

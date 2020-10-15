@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/..\/tilesets\/rpg_maker_vx___small_paintings_by_ayene_chan_d5lokmt.png",
+ "imageheight":256,
+ "imagewidth":384,
+ "margin":0,
+ "name":"wall paintings",
+ "spacing":0,
+ "tilecount":96,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
