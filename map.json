@@ -773,7 +773,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/radiooooo.com\/"
+                 "value":"https:\/\/poolside.fm\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -21208,20 +21208,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":6381,
-         "image":"tilesets\/banner-update.png",
-         "imageheight":192,
-         "imagewidth":192,
-         "margin":0,
-         "name":"banner-update",
-         "spacing":0,
-         "tilecount":36,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
