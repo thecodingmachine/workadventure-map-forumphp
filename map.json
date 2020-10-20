@@ -389,7 +389,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/redirection.io"
+                 "value":"https:\/\/event.afup.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
