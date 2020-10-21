@@ -823,12 +823,6 @@
          "id":68,
          "name":"25ansPHPWebsite",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
