@@ -36,7 +36,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -59,7 +59,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -82,7 +82,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -105,7 +105,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -128,7 +128,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,7 +174,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,7 +197,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,7 +220,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -243,7 +243,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,7 +266,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -312,7 +312,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -335,7 +335,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"sponsors"
+                 "value":"sponsor"
                 }],
          "type":"tilelayer",
          "visible":true,
