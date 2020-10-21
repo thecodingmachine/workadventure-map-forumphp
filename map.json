@@ -809,7 +809,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/earth.google.com\/web\/@0,0,0a,22251752.77375655d,35y,0h,0t,0r"
+                 "value":"https:\/\/www.google.fr\/intl\/fr\/earth\/"
                 }],
          "type":"tilelayer",
          "visible":true,
