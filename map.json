@@ -533,7 +533,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.globalis-ms.com\/"
+                 "value":"https:\/\/www.globalis-ms.com\/jobs\/"
                 }],
          "type":"tilelayer",
          "visible":true,
